@@ -2,6 +2,6 @@
 
 # start
 
-well it is a begining
+Well it is a beginning,
 I am on the way to this exercise. It's
-a long road but a beatiful day.
+a long road but a beautiful day.
